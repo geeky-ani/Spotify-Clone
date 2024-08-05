@@ -1,2 +1,2 @@
 # Spotify-Clone
-Project for my resume
+Project
